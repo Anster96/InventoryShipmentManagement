@@ -1,0 +1,20 @@
+30-12-2024 10:57:16 PM: Data loaded/Refreshed
+30-12-2024 10:58:33 PM: Data loaded/Refreshed
+30-12-2024 11:28:44 PM: Data loaded/Refreshed
+30-12-2024 11:29:34 PM: Data Exported to: A:\Inventory Shipment Management\InventoryShipmentManagement\ExportFiles\InventoryItems.xlsx
+30-12-2024 11:30:07 PM: Data Exported to: A:\Inventory Shipment Management\InventoryShipmentManagement\ExportFiles\InventoryItems.xlsx
+30-12-2024 11:30:17 PM: Data loaded/Refreshed
+30-12-2024 11:30:22 PM: Data Exported to: A:\Inventory Shipment Management\InventoryShipmentManagementV2\ExportData\InventoryItems.xlsx
+31-12-2024 12:17:12 AM: Data loaded/Refreshed
+31-12-2024 12:17:31 AM: Validating the provided Inputs
+31-12-2024 12:17:31 AM: Data loaded/Refreshed
+31-12-2024 12:17:39 AM: Data Exported to: A:\Inventory Shipment Management\InventoryShipmentManagementV2\ExportData\InventoryItems.xlsx
+31-12-2024 09:14:56 AM: Data loaded/Refreshed
+31-12-2024 10:49:33 AM: Data loaded/Refreshed
+31-12-2024 01:29:41 PM: Data loaded/Refreshed
+31-12-2024 01:29:57 PM: Validating the provided Inputs
+31-12-2024 01:29:57 PM: Data loaded/Refreshed
+31-12-2024 01:30:11 PM: Validating the provided Inputs
+31-12-2024 01:30:11 PM: Data loaded/Refreshed
+31-12-2024 01:30:22 PM: Data loaded/Refreshed
+31-12-2024 01:30:24 PM: Data loaded/Refreshed
